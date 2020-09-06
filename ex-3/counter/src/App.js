@@ -7,7 +7,7 @@ function App() {
   };
   return (
     <Fragment>
-      <div className="center">
+      <div className="jumbotron">
         <h1>Count: {count} </h1>
         <button onClick={increase} className="btn btn-primary">
           Increase

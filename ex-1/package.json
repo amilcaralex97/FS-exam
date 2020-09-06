@@ -1,0 +1,16 @@
+{
+  "name": "ex-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "count.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "verbose": true
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
